@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋  My name is Pavan Sai and I'm a Computer Science graduate from the Illinois Insititute of Technology, chicago. Intereseted in all things  MLops , Devops, Agentic AI.
+
+- 🔭 I’m currently working on AI PROJECTS, CLOUD PROJECTS 
+- 🌱 I’m currently learning ARTIFICIAL INTELLIGENCE , AWS , GOOGLE ENTERPRISE, AGENTIC AI , MLops
+- 📫 How to reach me: pavansai2809@outlook.com , +1 (312)4787393.
+- 🏠 ives in : Downtown, Chicago. 
+
 
 <!--
 **Pa1Sai28/Pa1Sai28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
