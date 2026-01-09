@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">## Hi there 👋  My name is Pavan Sai and I'm a Computer Science graduate from the Illinois Insititute of Technology, chicago. Intereseted in all things  MLops , Devops, Agentic AI.</h1>
+<h1 align="center">## Hi there 👋  My name is Naga PavanSai Kumar Varikuti.</h1>
 <h3 align="center">CS Grad IIT,Chicago. Intrested in DevOps,MLOps, Agentic AI</h3>
 
 
