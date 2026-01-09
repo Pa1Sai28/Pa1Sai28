@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">CS Grad IIT,Chicago. Intrested in DevOps,MLOps, Agentic AI</h3>
 
 
-- 🔭 I’m currently working on AI PROJECTS, CLOUD PROJECTS 
+- 🔭 I’m currently working on AI PROJECTS, DevOps PROJECTS 
 - 🌱 I’m currently learning ARTIFICIAL INTELLIGENCE , AWS , GOOGLE ENTERPRISE, AGENTIC AI , MLops
 - 📫 How to reach me: pavansai2809@outlook.com , +1 (312)4787393.
 - 🏠 ives in : Downtown, Chicago.
