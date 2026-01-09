@@ -1,9 +1,5 @@
-## Hi there 👋  My name is Pavan Sai and I'm a Computer Science graduate from the Illinois Insititute of Technology, chicago. Intereseted in all things  MLops , Devops, Agentic AI.
 
-- 🔭 I’m currently working on AI PROJECTS, CLOUD PROJECTS 
-- 🌱 I’m currently learning ARTIFICIAL INTELLIGENCE , AWS , GOOGLE ENTERPRISE, AGENTIC AI , MLops
-- 📫 How to reach me: pavansai2809@outlook.com , +1 (312)4787393.
-- 🏠 ives in : Downtown, Chicago. 
+ 
 
 
 <!--
@@ -21,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Naga Pavansai Kumar</h1>
+<h1 align="center">## Hi there 👋  My name is Pavan Sai and I'm a Computer Science graduate from the Illinois Insititute of Technology, chicago. Intereseted in all things  MLops , Devops, Agentic AI.</h1>
 <h3 align="center">CS Grad IIT,Chicago. Intrested in DevOps,MLOps, Agentic AI</h3>
 
-- 🔭 I’m currently working on **Agentic AI , DevOps, MLOps**
 
-- 🌱 I’m currently learning **MLops, Google Enterprise , Agentic AI, Artificial Intelligence, AWS, GCP.**
-
-- 📫 How to reach me **pavansai2809@yahoo.com**
+- 🔭 I’m currently working on AI PROJECTS, CLOUD PROJECTS 
+- 🌱 I’m currently learning ARTIFICIAL INTELLIGENCE , AWS , GOOGLE ENTERPRISE, AGENTIC AI , MLops
+- 📫 How to reach me: pavansai2809@outlook.com , +1 (312)4787393.
+- 🏠 ives in : Downtown, Chicago.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
