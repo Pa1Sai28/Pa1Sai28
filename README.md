@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋  My name is Naga PavanSai Kumar Varikuti.</h1>
-<h3 align="center">CS Grad IIT,Chicago. Intrested in DevOps,MLOps, Agentic AI</h3>
+<h3 align="center">Graduated in Masters in Computer Science IIT,Chicago. Intrested in DevOps,MLOps, Agentic AI</h3>
 
 
 - 🔭 I’m currently working on AI PROJECTS, DevOps PROJECTS 
