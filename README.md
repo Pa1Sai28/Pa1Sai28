@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AI PROJECTS, DevOps PROJECTS 
 - 🌱 I’m currently learning DevOps, MLops, ARTIFICIAL INTELLIGENCE ,GCP, AWS , GOOGLE ADK and ENTERPRISE, AGENTIC AI, Python, Java
-- 📫 How to reach me: pavansai2809@yahoo.com , +1 (312)4787393.
+- 📫 How to reach me: pavansai2809@yahoo.com .
 - 🏠 ives in : Downtown, Chicago.
 
 <h3 align="left">Connect with me:</h3>
